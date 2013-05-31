@@ -6,6 +6,6 @@
 
 <body>
 <p>Segunda página de teste para o git.</p>
-<p>Alteração do arquivo para teste.</p>
+<p>Alteração do arquivo para teste.Teste</p>
 </body>
 </html>
